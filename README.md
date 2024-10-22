@@ -68,6 +68,6 @@ Or
 yarn dev
 ```
 
-#Author
+## Author
 
 https://github.com/TusharRanjan2401
