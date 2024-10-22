@@ -1,4 +1,4 @@
-# ChatApp
+# ChatNext
 
 A real-time highly scalable chat application built with Next.js, Node.js, Redis, Socket.IO, Kafka, and PostgreSQL. This application allows users to send and receive messages in real-time, supporting multiple chat rooms and a responsive user interface.
 
